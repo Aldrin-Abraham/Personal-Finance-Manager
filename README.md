@@ -1,5 +1,5 @@
 # Personal-Finance-Manager
-##Project Overview
+#Project Overview
 The Personal Finance Manager is an intuitive and lightweight Python application tailored to assist users in managing their personal finances. By leveraging SQLite, a serverless and self-contained database engine, the application ensures ease of use and portability. This project provides essential financial management features through a user-friendly command-line interface (CLI).
 
 ##Key Features
