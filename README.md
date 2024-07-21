@@ -46,8 +46,8 @@ The Personal Finance Manager is an intuitive and lightweight Python application 
 * Run the script from the command line.
 * Use the CLI to add transactions, set budgets, generate reports, and visualize spending.
 
-#Example Commands:
-*Add a transaction: Enter the date, category, description, and amount.
-*Add a budget: Enter the category and budget amount.
-*Generate a report: View total income, total expenses, and category-wise spending.
-*Visualize spending: See a bar chart of spending by category.
+### Example Commands:
+* Add a transaction: Enter the date, category, description, and amount.
+* Add a budget: Enter the category and budget amount.
+* Generate a report: View total income, total expenses, and category-wise spending.
+* Visualize spending: See a bar chart of spending by category.
